@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<!--[if IE 8]> 				 <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Voliči a sledování hlasovacích lístků pro CF 30/2021 Volba předsedy/předsedkyně České pirátské strany - 1. kolo</title>
+
+  <link rel="stylesheet" href="/static/foundation/css/foundation.css">
+  <link rel="stylesheet" href="/static/foundation-tweaks.css">
+
+
+<script language="javascript" src="/static/20140302-helios-combined.js"></script>
+
+
+  
+  
+
+  
+</head>
+<body>
+  <div class="wrapper">
+  <nav class="top-bar">
+    <ul class="title-area">
+      <!-- Title Area -->
+      <li class="name">
+        <h1><a href="/"><img src="/static/tinylogo.png"></a></h1>
+      </li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>menu</span></a></li>
+    </ul>
+
+    <section class="top-bar-section">
+      <!-- Right Nav Section -->
+      <ul class="right">
+	
+	
+	<li><a href="http://heliosvoting.org">O Heliosu</a></li>
+	
+      </ul>
+
+      <ul>
+        <li><a href="/">Hlasovací systém Helios | Česká piratská strana</a></li>
+	
+        <li class="divider"></li>
+        <li><a href="mailto:help@heliosvoting.org">Help!</a></li>
+      </ul>
+    </section>
+  </nav>
+
+
+  <!-- Main Page Content and Sidebar -->
+
+  <div class="row" id="contentbody">
+      
+  <h3 class="title">CF 30/2021 Volba předsedy/předsedkyně České pirátské strany - 1. kolo &mdash; voliči a sledování hlasovacích lístků <span style="font-size:0.7em;">[<a href="/helios/elections/d720dfde-6c99-11ec-920a-02420a001015/view">zpět k hlasování</a>]</span></h3>
+
+<p>
+<b>Kdo může hlasovat?</b>
+
+<em>Jen voliči v tomto seznamu</em>.
+
+</p>
+
+
+
+
+
+
+<p>
+
+<form method="get" action="/helios/elections/d720dfde-6c99-11ec-920a-02420a001015/voters/list"><b>hledat</b>: <input type="text" name="q" /> <input type="submit" value="hledat" /></form>
+
+</p>
+
+
+
+
+
+
+<p>
+<b>
+
+929 odevzdaných hlasů
+
+</b>
+</p>
+
+
+<a href="/helios/elections/d720dfde-6c99-11ec-920a-02420a001015/voters/list?page=6&limit=50&q=">předchozích 50</a> &nbsp;&nbsp;
+
+
+
+Voliči 301 - 350 (z 1232)&nbsp;&nbsp;
+
+
+<a href="/helios/elections/d720dfde-6c99-11ec-920a-02420a001015/voters/list?page=8&limit=50&q=">dalších 50</a> &nbsp;&nbsp;
+
+
+<table class="pretty">
+<tr>
+
+
+<th>Jméno</th>
+
+
+
+<th>Kód pro sledování lístku</th>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Hrubeš</td>
+
+
+<td><tt style="font-size: 1.4em;">eY19soC0gm9Y10YzmaEukBOl1fIDIDnsjj7M/nKjUZQ</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Hruška</td>
+
+
+<td><tt style="font-size: 1.4em;">svHOfesZj/I4RSExeGA9ydOQEde5XeU5j3mt2xQr8Jg</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Hutter</td>
+
+
+<td><tt style="font-size: 1.4em;">xWoJo9utTmJen6iLl1MY96BBvEq2/+Jhv/9CfhiJsKI</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Janda</td>
+
+
+<td><tt style="font-size: 1.4em;">TFO/OTFblr71TNMpPEJ0RIw4JteK6A3hbngrqpWtQd4</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Ján Jaroň</td>
+
+
+<td><tt style="font-size: 1.4em;">qCDgntnqYAwhjcKpwjbfzZVQyK4pnZST4k7yk7PosI0</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Honza Jurik</td>
+
+
+<td><tt style="font-size: 1.4em;">BWth/CVEPJHYvR/IuxKdQqpuJepwO6YQDtoXs02TEyg</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Jůza</td>
+
+
+<td><tt style="font-size: 1.4em;">CBYGcfx1Sv+i/DiU2caEScPqt5OsqIjHBGloD5SvdQk</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Janka Michailidu</td>
+
+
+<td><tt style="font-size: 1.4em;">+cGY5GEdlSeaG+0fepGb3GUgGOaiL+uiDLruDQjPGtc</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Kasík</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Kerber</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Kincler</td>
+
+
+<td><tt style="font-size: 1.4em;">Dzey2EqwDzOJGkB9O+/E2mmy5rnueDv4PZnnxHBGlz8</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Kolátor</td>
+
+
+<td><tt style="font-size: 1.4em;">DEZjiHvX/vVgypm/MQltBZ/udTf1ZEbjsXZZxbQeW00</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Korbel</td>
+
+
+<td><tt style="font-size: 1.4em;">3IfiYveBnxhye/d3nyaETYPfsXVteDlDHQaRKFGeXfU</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> jan.kotas</td>
+
+
+<td><tt style="font-size: 1.4em;">W1/8+f9hQGj8Op0Kwesy6VgvUMNEea82BeD2wehPtyI</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Koukolík</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Koutný</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Kranda</td>
+
+
+<td><tt style="font-size: 1.4em;">p70YhtAB13/YaV5XLbraZsDp/dyMmna3ikhwJ3kDRZg</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> jan.kunc</td>
+
+
+<td><tt style="font-size: 1.4em;">4t2ERJY3vm0+CUh0HSeVRtZmqB6mz8R8CoYnbfC5Ovw</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Lehký</td>
+
+
+<td><tt style="font-size: 1.4em;">+Hqm9LjTgghppnJbKZl3Ox8h+vkd1Hu1fsiOeomhdIs</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Lejčko</td>
+
+
+<td><tt style="font-size: 1.4em;">ZLWttgTil16dAVd8QV0+0XyKiNoRljCJSbubd3Q+jG0</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Lička</td>
+
+
+<td><tt style="font-size: 1.4em;">pkAxDItj2TGu4unetOCjEs0noJPBdCbAK/AGyHSA4oA</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Lipavský</td>
+
+
+<td><tt style="font-size: 1.4em;">dNAZ+u++HwodaO0B1S81Eqf7o3hymlHYiF3InlW3mIw</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Liška</td>
+
+
+<td><tt style="font-size: 1.4em;">wdSDJ+L217rwSpIedlDPm9Kx0Wp4w5615AiNqZp3sw8</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Lukášek</td>
+
+
+<td><tt style="font-size: 1.4em;">LE3SQUCxHQaYrKyebc19OxndOw3sqGWNfOpmtyjgqx4</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Lukavský</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Macal</td>
+
+
+<td><tt style="font-size: 1.4em;">3puqwJVET4/D1JIoSEnmJ1Q/UeDoueUYBG9OUThf1lY</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Maixner</td>
+
+
+<td><tt style="font-size: 1.4em;">x0D4vqlRFJSOraApzcYJizzvYa5D13+vI6VSIFDy0LU</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Honza Mareš</td>
+
+
+<td><tt style="font-size: 1.4em;">qyGlnTie1KLYxOUYDkSaZtbRNGfok1zaObwd6I/Jwj8</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Mejsnar</td>
+
+
+<td><tt style="font-size: 1.4em;">F9jBBpxprw6QwVsYouo3gHU5krARMXiz9MGhfhUZPrY</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Mochťák</td>
+
+
+<td><tt style="font-size: 1.4em;">SEz11AyTzZtc0rYYKnaLJdx2A4ase00OLiUYBp9w0ks</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Moravec</td>
+
+
+<td><tt style="font-size: 1.4em;">/P+o0q6m9UEbX2Zpp2eOw2xjgqWB2fQ21c/rmxbtCfY</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Můčka</td>
+
+
+<td><tt style="font-size: 1.4em;">vfwziQW/p8uF9rRLlCB3g9BxIMDbrYOwrnheWBe/VVA</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Munzar</td>
+
+
+<td><tt style="font-size: 1.4em;">yXuXagA/HmD/nrb6EkVrFOBbOgUVWf16jUkBcMoWM5A</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Novák</td>
+
+
+<td><tt style="font-size: 1.4em;">N0T6luKYLXa9nc4hrs3WnF9ls1fHYDRgSkk4FLfhMXE</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Pachl</td>
+
+
+<td><tt style="font-size: 1.4em;">1v4nI/LMXZq94n4qvLNZ75TGE1V8VRwpN0+Ywg9KKyA</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Picko</td>
+
+
+<td><tt style="font-size: 1.4em;">UNagV2OuLkXJP092WOpHgPSbvKebTQD/rkNUnSk10S8</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Podhajský</td>
+
+
+<td><tt style="font-size: 1.4em;">bM10FAhipOD01X5siuRk5rDAAzOBJEG7QspCvKCPKyM</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Polák</td>
+
+
+<td><tt style="font-size: 1.4em;">j/cIxoKEQii+d64rgQ3IJtIz4yO2CT1QpH3oNhhQjhw</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Pospíšil</td>
+
+
+<td><tt style="font-size: 1.4em;">dQqau0jqh+O/l/EhK21CVllfD9BnOwT4hI6he4esoEc</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Pošvář</td>
+
+
+<td><tt style="font-size: 1.4em;">NGpNXXeRV5la4B1OymN7Re0xwlyDONuLl687+zDzYAM</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Prachař</td>
+
+
+<td><tt style="font-size: 1.4em;">IS8ofMwMG/hcjvmkNs0R3ralYdqi4NOhAVhuBtxOKWE</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Příbramský</td>
+
+
+<td><tt style="font-size: 1.4em;">fR9a9N9WvrGHEXIaJolzClOALcn0mcafJvjiBoy6qic</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Priessnitz</td>
+
+
+<td><tt style="font-size: 1.4em;">9wiU2RbL2k8OLxWSEV2dV1GfOZBJXowdLnSoyU8l8I4</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Prokop</td>
+
+
+<td><tt style="font-size: 1.4em;">moW06WkcFhHe/oQgBBllJENTyNmtRN3bm0Af9o/gTVk</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Rejman</td>
+
+
+<td><tt style="font-size: 1.4em;">x28lvVSLFt7HXGN1smS+v6SpfoxPa0kpbNWOrpp4yZI</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Říšský</td>
+
+
+<td><tt style="font-size: 1.4em;">htUwMUJlvZKvkYWVW2t+fy2y/V5OkSAfev/9tUInnGU</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Rosík</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Segeš</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Spěváček</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Jan Stehlík</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+</table>
+
+
+
+
+  </div>
+
+  <div class="push"></div>
+  </div>
+
+  <div class="footer" id="footer">
+<!--    <span style="float:right;">
+      
+    </span>-->
+    
+    
+
+    Nejste přihlášen. <a class="tiny button" href="https://helios.pirati.cz/auth/?return_url=/helios/elections/d720dfde-6c99-11ec-920a-02420a001015/voters/list">Přihlásit se</a>
+
+    
+    
+      <br clear="right" />
+    </div>
+
+  </div>
+      <script>
+	$(document).foundation();
+      </script>
+</body>
+</html>

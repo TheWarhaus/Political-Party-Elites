@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<!--[if IE 8]> 				 <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Voliči a sledování hlasovacích lístků pro CF 1/2020 Volba 1.místopředsedy České pirátské strany</title>
+
+  <link rel="stylesheet" href="/static/foundation/css/foundation.css">
+  <link rel="stylesheet" href="/static/foundation-tweaks.css">
+
+
+<script language="javascript" src="/static/20140302-helios-combined.js"></script>
+
+
+  
+  
+
+  
+</head>
+<body>
+  <div class="wrapper">
+  <nav class="top-bar">
+    <ul class="title-area">
+      <!-- Title Area -->
+      <li class="name">
+        <h1><a href="/"><img src="/static/tinylogo.png"></a></h1>
+      </li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>menu</span></a></li>
+    </ul>
+
+    <section class="top-bar-section">
+      <!-- Right Nav Section -->
+      <ul class="right">
+	
+	
+	<li><a href="http://heliosvoting.org">O Heliosu</a></li>
+	
+      </ul>
+
+      <ul>
+        <li><a href="/">Hlasovací systém Helios | Česká piratská strana</a></li>
+	
+        <li class="divider"></li>
+        <li><a href="mailto:help@heliosvoting.org">Help!</a></li>
+      </ul>
+    </section>
+  </nav>
+
+
+  <!-- Main Page Content and Sidebar -->
+
+  <div class="row" id="contentbody">
+      
+  <h3 class="title">CF 1/2020 Volba 1.místopředsedy České pirátské strany &mdash; voliči a sledování hlasovacích lístků <span style="font-size:0.7em;">[<a href="/helios/elections/ee9b3e60-3ac3-4f2f-930f-2f461cde7ca9/view">zpět k hlasování</a>]</span></h3>
+
+<p>
+<b>Kdo může hlasovat?</b>
+
+<em>Jen voliči v tomto seznamu</em>.
+
+</p>
+
+
+
+
+
+
+<p>
+
+<form method="get" action="/helios/elections/ee9b3e60-3ac3-4f2f-930f-2f461cde7ca9/voters/list"><b>hledat</b>: <input type="text" name="q" /> <input type="submit" value="hledat" /></form>
+
+</p>
+
+
+
+
+
+
+<p>
+<b>
+
+564 odevzdaných hlasů
+
+</b>
+</p>
+
+
+<a href="/helios/elections/ee9b3e60-3ac3-4f2f-930f-2f461cde7ca9/voters/list?page=11&limit=50&q=">předchozích 50</a> &nbsp;&nbsp;
+
+
+
+Voliči 551 - 600 (z 1030)&nbsp;&nbsp;
+
+
+<a href="/helios/elections/ee9b3e60-3ac3-4f2f-930f-2f461cde7ca9/voters/list?page=13&limit=50&q=">dalších 50</a> &nbsp;&nbsp;
+
+
+<table class="pretty">
+<tr>
+
+
+<th>Jméno</th>
+
+
+
+<th>Kód pro sledování lístku</th>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Hrádela</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Hrdlička</td>
+
+
+<td><tt style="font-size: 1.4em;">T8QLtT5/MeuNrYZ4POzpb316L24S/NpCStvuhtOO/sQ</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Chour</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin.Janko</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Jiránek</td>
+
+
+<td><tt style="font-size: 1.4em;">I/uJ7DHqfHVJOCMJ5CcLFm0cr10v8D6WEXyNzPaKP/s</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Kacirek</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Kákona</td>
+
+
+<td><tt style="font-size: 1.4em;">5rspEydHZYCxsRqDKf+rJ81Q8F/Bt+GmiKctd44LW4Y</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Kalina</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin.Karel.Svetlik</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Kmec</td>
+
+
+<td><tt style="font-size: 1.4em;">h/JdKjKaXljbXAXxQRdmEoBbfnDYebZ0ab5O4DxO6kQ</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Kučera</td>
+
+
+<td><tt style="font-size: 1.4em;">hr38ZXOQFdyq++9hv7/yzWQZabFHRm2LuWMKynhowsQ</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Látal</td>
+
+
+<td><tt style="font-size: 1.4em;">hmYRDpDjYoSxcwaRHi6mkrQ38SFR1FCrYEMo0xK/N1k</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Mareda</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Martin</td>
+
+
+<td><tt style="font-size: 1.4em;">OE377vfc5jB6h3HX94ujC3KLAqBcHxSOfiT0qQhgyno</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> martin.morong</td>
+
+
+<td><tt style="font-size: 1.4em;">wpWt4vAP34VmzNW8ud6rlIdHroaWD2ce8ec/UVijpdc</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Muzikant</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Pavlištík</td>
+
+
+<td><tt style="font-size: 1.4em;">sHP6UDybwVxDtbFftK2aZji+8pILQVDwgCr8NhIFXGI</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin.Picha</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Polák</td>
+
+
+<td><tt style="font-size: 1.4em;">4lAV/YysaZmyYtXDNBs2I88RP4UAJybHu0NFM9dMTIw</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Ptáček</td>
+
+
+<td><tt style="font-size: 1.4em;">3l1kpwXuMnScksXakJVuEisvu3cRqMBsC6DHYBC0peI</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Rédr</td>
+
+
+<td><tt style="font-size: 1.4em;">x6EnNqFbJMGdxj1nC1DSzMGR5SJbQ77XSEz/Sgj9XeY</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Rejman</td>
+
+
+<td><tt style="font-size: 1.4em;">504pboEjTjes7bZHPJCy3KzTZydeWMWMZx0KuZFlmP4</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Saifrt</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Semecký</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Škapa</td>
+
+
+<td><tt style="font-size: 1.4em;">bUdYx7b0YJv+Rfd1oQKggTdOmO+2kJWs4/eiBoYq2Bg</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Šmída</td>
+
+
+<td><tt style="font-size: 1.4em;">VzDyPUTJOGWYnqRBwJkN6Lo8aExzXWybIXY3Ns7x+rg</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Staněk</td>
+
+
+<td><tt style="font-size: 1.4em;">liTvipLiIFLkWFIIKG0Xg1KGTosNJzifKQyKFNpyvHU</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Štěrba</td>
+
+
+<td><tt style="font-size: 1.4em;">LlZ9/yXneGj7rUkOsL9EPdlUaQ7AlrNbSujSfqTDI2g</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Strnad</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin.Strupek</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Suchan</td>
+
+
+<td><tt style="font-size: 1.4em;">9zYrX6Sp1xB9LGz5iFpK/qJvVWizq51gSMKi817TPrg</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Sumerauer</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Švadlenka</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Tomášek</td>
+
+
+<td><tt style="font-size: 1.4em;">rThg1XnMNTJcgaO2885iWau0evyhJJ//NugKbtj7QNM</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Valášek</td>
+
+
+<td><tt style="font-size: 1.4em;">VqE5qx337EQG2WoZz6w/8vhKz7vUkE8Lr6lyFC408E4</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Martin Vít</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Matěj Karas</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Matěj Krajča</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Matěj Kubíček</td>
+
+
+<td><tt style="font-size: 1.4em;">3ngNEosV4ssTFlGchNIsz2nUU4lp3JlmHETNCxWh9zE</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Matěj Mlčoch</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Matěj Šandor</td>
+
+
+<td><tt style="font-size: 1.4em;">72svDVdxH3CQi+KeizeTRA5p3UNaiuxieRiDD2Lf/fc</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Michaela Beránková</td>
+
+
+<td><tt style="font-size: 1.4em;">dODDl6VfvGRXPrgYhlZVxmHXb3JXY0VDqAkD/Pzlocw</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Michaela Davidová</td>
+
+
+<td><tt style="font-size: 1.4em;">RyiCyo0TxPgX97/XNosFlm4+d6Pj0flPJ2SNyKBoyHU</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Michaela.Jagerova</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> michaela.kleslova</td>
+
+
+<td><tt style="font-size: 1.4em;">hDzDxF1FNaZXJ8VusYVKmcBr4g6ln+gYhTWpSmqQyGk</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Michaela Krausová</td>
+
+
+<td><tt style="font-size: 1.4em;">QV11cb7i5YBJxJ5uo5F7athEKO7YI9dkZzl7KYyRJ3Q</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> michaela.krupickova</td>
+
+
+<td><tt style="font-size: 1.4em;">Z/BQ976CNTkGsgh44dfq18kzUhKIl+Uz3SqFuhdW008</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Michaela Pelzmann Schwarzová</td>
+
+
+<td><tt style="font-size: 1.4em;">b3h/EEXJsdsfQNw12N8uqv8Z2MZoPja9GNAdZokK2hk</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Michaela.Skokanova</td>
+
+
+<td><tt style="font-size: 1.4em;">3TZp8/R/lcd95em3+3/uvkAX6IPDSl85EHsJHF2jVs0</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Michaela Vodová</td>
+
+
+<td><tt style="font-size: 1.4em;">kNx6LXvU6mQaOvXY5UaaStMbdzEj9AyU1VPsT4eC1+I</tt></td>
+</tr>
+
+</table>
+
+
+
+
+  </div>
+
+  <div class="push"></div>
+  </div>
+
+  <div class="footer" id="footer">
+<!--    <span style="float:right;">
+      
+    </span>-->
+    
+    
+
+    Nejste přihlášen. <a class="tiny button" href="https://helios.pirati.cz/auth/?return_url=/helios/elections/ee9b3e60-3ac3-4f2f-930f-2f461cde7ca9/voters/list">Přihlásit se</a>
+
+    
+    
+      <br clear="right" />
+    </div>
+
+  </div>
+      <script>
+	$(document).foundation();
+      </script>
+</body>
+</html>

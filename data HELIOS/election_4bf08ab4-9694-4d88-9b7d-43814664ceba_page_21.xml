@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<!--[if IE 8]> 				 <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Voliči a sledování hlasovacích lístků pro CF 1/2020 Volba předsedy České pirátské strany - 1.kolo</title>
+
+  <link rel="stylesheet" href="/static/foundation/css/foundation.css">
+  <link rel="stylesheet" href="/static/foundation-tweaks.css">
+
+
+<script language="javascript" src="/static/20140302-helios-combined.js"></script>
+
+
+  
+  
+
+  
+</head>
+<body>
+  <div class="wrapper">
+  <nav class="top-bar">
+    <ul class="title-area">
+      <!-- Title Area -->
+      <li class="name">
+        <h1><a href="/"><img src="/static/tinylogo.png"></a></h1>
+      </li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>menu</span></a></li>
+    </ul>
+
+    <section class="top-bar-section">
+      <!-- Right Nav Section -->
+      <ul class="right">
+	
+	
+	<li><a href="http://heliosvoting.org">O Heliosu</a></li>
+	
+      </ul>
+
+      <ul>
+        <li><a href="/">Hlasovací systém Helios | Česká piratská strana</a></li>
+	
+        <li class="divider"></li>
+        <li><a href="mailto:help@heliosvoting.org">Help!</a></li>
+      </ul>
+    </section>
+  </nav>
+
+
+  <!-- Main Page Content and Sidebar -->
+
+  <div class="row" id="contentbody">
+      
+  <h3 class="title">CF 1/2020 Volba předsedy České pirátské strany - 1.kolo &mdash; voliči a sledování hlasovacích lístků <span style="font-size:0.7em;">[<a href="/helios/elections/4bf08ab4-9694-4d88-9b7d-43814664ceba/view">zpět k hlasování</a>]</span></h3>
+
+<p>
+<b>Kdo může hlasovat?</b>
+
+<em>Jen voliči v tomto seznamu</em>.
+
+</p>
+
+
+
+
+
+
+<p>
+
+<form method="get" action="/helios/elections/4bf08ab4-9694-4d88-9b7d-43814664ceba/voters/list"><b>hledat</b>: <input type="text" name="q" /> <input type="submit" value="hledat" /></form>
+
+</p>
+
+
+
+
+
+
+<p>
+<b>
+
+653 odevzdaných hlasů
+
+</b>
+</p>
+
+
+<a href="/helios/elections/4bf08ab4-9694-4d88-9b7d-43814664ceba/voters/list?page=20&limit=50&q=">předchozích 50</a> &nbsp;&nbsp;
+
+
+
+Voliči 1001 - 1030 (z 1030)&nbsp;&nbsp;
+
+
+
+<table class="pretty">
+<tr>
+
+
+<th>Jméno</th>
+
+
+
+<th>Kód pro sledování lístku</th>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> zbynek.konvicka</td>
+
+
+<td><tt style="font-size: 1.4em;">V7ri3Sax4RKyp7Q4Dp3QU/mNnbP6Czi1324kRmE5Aag</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zbyněk Miklík</td>
+
+
+<td><tt style="font-size: 1.4em;">CTlpV3qTS5qDwnL6LsO4FUykRYYEGyo6hPtiECcRams</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zbyněk Pokorný</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zbyněk Špalt</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeněk Brejša</td>
+
+
+<td><tt style="font-size: 1.4em;">JsOeZXUiQJRRNt7ybQg2XvlFhKmz9NoZ/d2fipoaJsA</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> zdenek.hess</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeněk Hřib</td>
+
+
+<td><tt style="font-size: 1.4em;">UV/GtVrO8oRgek/JIztAqKktAQKwZ3Yxjbtvz2KIk2M</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeněk Jaroň</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeněk Kopš</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeněk Kubala</td>
+
+
+<td><tt style="font-size: 1.4em;">FwaS4yzTT7OTaRwC10MH+nYxppHmiEFDvCgShZ+rRMY</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeněk Lajbner</td>
+
+
+<td><tt style="font-size: 1.4em;">a86OxN4NxB/ern3BTElepPZwWLJjf4msI8D5vsaJUrQ</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeněk Matych</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeněk Pech</td>
+
+
+<td><tt style="font-size: 1.4em;">nue1mF108vVnWU/O7Z9TTYgI09EMTRbYjy0cXpWr5oY</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeněk Rozprým</td>
+
+
+<td><tt style="font-size: 1.4em;">7l4LcnDbKhdBJowjrstR64z2dPD3eyQdyCzoW0OXufI</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeněk Štěpánek</td>
+
+
+<td><tt style="font-size: 1.4em;">Mqcv54GTWMQjNjDOyTF807rRWxBAx+NNCdqRncRROAM</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeněk Třešňák</td>
+
+
+<td><tt style="font-size: 1.4em;">VS/sik/R26Mtn7bnJZlXOWWAkrzumr8HWqE9liNftCY</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeněk Třos</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeněk Žák</td>
+
+
+<td><tt style="font-size: 1.4em;">CjvGJYZVTS4VHuO1YbuGBPzyc7oeSjm6OD4u80YKvQ4</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeňka Dvořáková Kocourková</td>
+
+
+<td><tt style="font-size: 1.4em;">eEeytX2OHvVtQGSwKI3vDvaohx3YX/FRuUxm711aS9s</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeňka Kupcová</td>
+
+
+<td><tt style="font-size: 1.4em;">p05+DGgo71MI4wGtjOv8tkDc0NV/zGVfAvEG5yt21XU</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zdeňka Lišková</td>
+
+
+<td><tt style="font-size: 1.4em;">RQcX2lFYiBOx+QEUavWhNHiZ6psrnvIn5HLDq92uIas</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> zuzana.bohmova</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> zuzana.cerna</td>
+
+
+<td><tt style="font-size: 1.4em;">oGrl3hVhnciS2gDL7XzkdjH/X4G+AmEYonRdgBiAmB4</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zuzana Drázdová</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zuzana Fišerová</td>
+
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zuzana.Freitas.Lopesova</td>
+
+
+<td><tt style="font-size: 1.4em;">6//Uo5glV2mnDUmBTtDTbSAS+PeHGO1SVFMQh95V+aU</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zuzana Klusová</td>
+
+
+<td><tt style="font-size: 1.4em;">hQIABsiHlHl+yaJhvTPCjQX1ilZhLWiAD0HtwXPNkBo</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zuzana Kudláčková</td>
+
+
+<td><tt style="font-size: 1.4em;">m3vagTizffqCDxsaD8ZJzqJHC0hxPxU3r9KZM/CDNuc</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> zuzana.novosadova</td>
+
+
+<td><tt style="font-size: 1.4em;">ZFE9Br0444KwYsu54F/0QB4vFRulBktq7nFLTa8Afj0</tt></td>
+</tr>
+
+<tr>
+
+
+<td><img class="small-logo" src="/static/auth/login-icons/pirati.png" alt="pirati" /> Zuzana Ujhelyiová</td>
+
+
+<td><tt style="font-size: 1.4em;">Fw4Iwn6wOZus6MiMhXY+JCKkvf3wbssQJbijNX862Fk</tt></td>
+</tr>
+
+</table>
+
+
+
+
+  </div>
+
+  <div class="push"></div>
+  </div>
+
+  <div class="footer" id="footer">
+<!--    <span style="float:right;">
+      
+    </span>-->
+    
+    
+
+    Nejste přihlášen. <a class="tiny button" href="https://helios.pirati.cz/auth/?return_url=/helios/elections/4bf08ab4-9694-4d88-9b7d-43814664ceba/voters/list">Přihlásit se</a>
+
+    
+    
+      <br clear="right" />
+    </div>
+
+  </div>
+      <script>
+	$(document).foundation();
+      </script>
+</body>
+</html>

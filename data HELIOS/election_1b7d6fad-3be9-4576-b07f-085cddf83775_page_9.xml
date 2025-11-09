@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<!--[if IE 8]> 				 <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Voliči a sledování hlasovacích lístků pro CF 32/2017 - třetí dovolba republikového výboru</title>
+
+  <link rel="stylesheet" href="/static/foundation/css/foundation.css">
+  <link rel="stylesheet" href="/static/foundation-tweaks.css">
+
+
+<script language="javascript" src="/static/20140302-helios-combined.js"></script>
+
+
+  
+  
+
+  
+</head>
+<body>
+  <div class="wrapper">
+  <nav class="top-bar">
+    <ul class="title-area">
+      <!-- Title Area -->
+      <li class="name">
+        <h1><a href="/"><img src="/static/tinylogo.png"></a></h1>
+      </li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>menu</span></a></li>
+    </ul>
+
+    <section class="top-bar-section">
+      <!-- Right Nav Section -->
+      <ul class="right">
+	
+	
+	<li><a href="http://heliosvoting.org">O Heliosu</a></li>
+	
+      </ul>
+
+      <ul>
+        <li><a href="/">Hlasovací systém Helios | Česká piratská strana</a></li>
+	
+        <li class="divider"></li>
+        <li><a href="mailto:help@heliosvoting.org">Help!</a></li>
+      </ul>
+    </section>
+  </nav>
+
+
+  <!-- Main Page Content and Sidebar -->
+
+  <div class="row" id="contentbody">
+      
+  <h3 class="title">CF 32/2017 - třetí dovolba republikového výboru &mdash; voliči a sledování hlasovacích lístků <span style="font-size:0.7em;">[<a href="/helios/elections/1b7d6fad-3be9-4576-b07f-085cddf83775/view">zpět k hlasování</a>]</span></h3>
+
+<p>
+<b>Kdo může hlasovat?</b>
+
+<em>Jen voliči v tomto seznamu</em>.
+
+</p>
+
+
+
+
+
+
+<p>
+
+<form method="get" action="/helios/elections/1b7d6fad-3be9-4576-b07f-085cddf83775/voters/list"><b>hledat</b>: <input type="text" name="q" /> <input type="submit" value="hledat" /></form>
+
+</p>
+
+
+
+
+
+
+<p>
+<b>
+
+210 odevzdaných hlasů
+
+</b>
+</p>
+
+
+<a href="/helios/elections/1b7d6fad-3be9-4576-b07f-085cddf83775/voters/list?page=8&limit=50&q=">předchozích 50</a> &nbsp;&nbsp;
+
+
+
+Voliči 401 - 450 (z 560)&nbsp;&nbsp;
+
+
+<a href="/helios/elections/1b7d6fad-3be9-4576-b07f-085cddf83775/voters/list?page=10&limit=50&q=">dalších 50</a> &nbsp;&nbsp;
+
+
+<table class="pretty">
+<tr>
+
+
+
+<th>Alias</th>
+
+<th>Kód pro sledování lístku</th>
+</tr>
+
+<tr>
+
+
+<td>V46</td>
+
+<td><tt style="font-size: 1.4em;">+e4V1EyHTXO4HG3JNpEiowyqzXWFyEM274Yvs1sAvNA</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V460</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V461</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V462</td>
+
+<td><tt style="font-size: 1.4em;">B0Xc7HzK4iGepD/IQx7M4ONIsGbYbMIfqBwqp6tr8qs</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V463</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V464</td>
+
+<td><tt style="font-size: 1.4em;">8Pjh6wHGKuGaVgfe6WKANvJXLOe1RBwZPGWT37TihK8</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V465</td>
+
+<td><tt style="font-size: 1.4em;">MsTp5yK7tpMxSjGm2PrzRqWvwGDfAIxki7OeIltF1Ig</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V466</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V467</td>
+
+<td><tt style="font-size: 1.4em;">egBiaGa2e7l132L/lq6cITCcf2rDtfiGqo94cGQnvQU</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V468</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V469</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V47</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V470</td>
+
+<td><tt style="font-size: 1.4em;">vo8b/Z8xwUDqlmMVggb1kSdIQUe3mSEnEZSlWZLFBdM</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V471</td>
+
+<td><tt style="font-size: 1.4em;">+WNd99OsqoyId314BknfI45zGgbQXt5Efst/9mHywzI</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V472</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V473</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V474</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V475</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V476</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V477</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V478</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V479</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V48</td>
+
+<td><tt style="font-size: 1.4em;">DZkUmY6nu8/Tk5llVEwnQHKFNq2sf0lEnI708atDCuQ</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V480</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V481</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V482</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V483</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V484</td>
+
+<td><tt style="font-size: 1.4em;">PM5gCu4b3r709wJXm8eobORQPSmpuEGemglPIK+d7+M</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V485</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V486</td>
+
+<td><tt style="font-size: 1.4em;">oAUqQKsYFwG4G+gEDc06CrFurjZbxp+oCX8KhAmbGDY</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V487</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V488</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V489</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V49</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V490</td>
+
+<td><tt style="font-size: 1.4em;">992/W+7yxOG5urrX5OjpnyecwKmpUzQL76YVoYUnIoU</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V491</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V492</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V493</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V494</td>
+
+<td><tt style="font-size: 1.4em;">q9BRC3UJAhi82QhH0CXXhikCh3fo3ci1aSynLbdW/4s</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V495</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V496</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V497</td>
+
+<td><tt style="font-size: 1.4em;">XHSEPqL36duJ/EDbBYv5dOvJjiCQtyUXs4nuGFKfads</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V498</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V499</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V5</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V50</td>
+
+<td><tt style="font-size: 1.4em;">LWYaBbJPnIYWiLDevLDEiIuwbqEF+71sBiKyaiGswNE</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V500</td>
+
+<td><tt style="font-size: 1.4em;">UJmbNrXs0RKetzmX8+fLjDpx3ctVqHMNswEX/zY9b4M</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V501</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V502</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+<tr>
+
+
+<td>V503</td>
+
+<td><tt style="font-size: 1.4em;">&mdash;</tt></td>
+</tr>
+
+</table>
+
+
+
+
+  </div>
+
+  <div class="push"></div>
+  </div>
+
+  <div class="footer" id="footer">
+<!--    <span style="float:right;">
+      
+    </span>-->
+    
+    
+
+    Nejste přihlášen. <a class="tiny button" href="https://helios.pirati.cz/auth/?return_url=/helios/elections/1b7d6fad-3be9-4576-b07f-085cddf83775/voters/list">Přihlásit se</a>
+
+    
+    
+      <br clear="right" />
+    </div>
+
+  </div>
+      <script>
+	$(document).foundation();
+      </script>
+</body>
+</html>
